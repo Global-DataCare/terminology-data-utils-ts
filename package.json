@@ -1,6 +1,6 @@
 {
   "name": "terminology-data-utils-ts",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Runtime-neutral contracts for versioned offline terminology snapshots",
   "author": "Connecting Solution & Applications Ltd. (ConnectHealth.info)",
   "license": "Apache-2.0",
