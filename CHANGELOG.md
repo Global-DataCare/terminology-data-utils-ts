@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## 0.2.1 - 2026-10-18
+
 - Allow terminology entries to bind to governed Schema.org flat claims as well
   as FHIR flat claims, enabling cached NCBI Taxonomy labels for One Health card
   readers without accepting arbitrary UI field names.
